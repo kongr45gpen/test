@@ -1,4 +1,4 @@
-flagOnSpawn
+Random README file
 ===========
 
 BZFlag plugin that gives players a flag on spawn depending on a variable
