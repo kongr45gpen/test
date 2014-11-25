@@ -65,11 +65,12 @@ Compiling and Installation
 To compile a playable BZFlag, the following steps should get you up
 and running quickly if everything external to BZFlag is properly
 installed:
-
+```bash
     ./autogen.sh
     ./configure
     make
     ./src/bzflag/bzflag
+```
 
 If configure detected everything it needed to build the BZFlag client,
 after make the client will be sitting in src/bzflag as 'bzflag'.  The
@@ -82,16 +83,16 @@ consult that file as they usually contain additional instructions or
 details specific for building on that platform.  There are often hints
 for common problems specific to those platforms as well.
 
-The Longer Version:
+#### The Longer Version:
 
 To build sources checked out directly from SVN you need to create a
 configure script. You can skip this step if you grab an distribution
 of BZFlag that already has a ./configure script in it, such as from a
 source distribution tarball.  To generate the configure script, you
 run the provided autogen.sh script:
-
+```bash
   % sh autogen.sh
-
+```
 The script will report whether sufficient versions of the GNU Build
 System tools (i.e. autoconf, automake, and libtool) that were detected
 and if successful, a configure script will be generated.  If the
@@ -103,9 +104,9 @@ your tools are recent.
 
 If the previous step was successful you now have a script for
 configuring BZFlag.  This command:
-
+```bash
   % ./configure --help
-
+```
 will list the variety of configuration options.  The script adapts
 well to various system configurations, so it may be enough to simply
 run it as:
