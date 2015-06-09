@@ -1,0 +1,8 @@
+before_install:
+  - return 0
+  
+install:
+  - return 0
+  
+script:
+  - return 0
