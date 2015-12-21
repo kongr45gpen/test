@@ -6,3 +6,7 @@ install:
   
 script:
   - return 0
+
+notifications:
+  webhooks:
+    - http://helit.tech:8093/++alezakos/showSuccessfulBuildMessages=always
