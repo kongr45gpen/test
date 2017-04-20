@@ -1,6 +1,6 @@
 This is line one, paragraph one.
 
-This line symbolises the beginning of the second paragraph.
+This line symbolises the beginning of the second paragraph. 
 This line lies below in Markdown.
 This line is even more below.
 
