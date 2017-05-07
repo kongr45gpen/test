@@ -9,6 +9,7 @@ This is the continuation of the previous attempt.
 This line has only one space at the end. 
 This is the last line. It has no spaces at the end.
 
+Hopefully the spaces in the above paragraph are not broken.
 
 GitHub Flavoured Markdown
 ================================
