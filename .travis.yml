@@ -10,3 +10,5 @@ script:
 notifications:
   webhooks:
     - http://helit.tech:8093/++alezakos/showSuccessfulBuildMessages=always
+
+sudo: false
