@@ -1,7 +1,7 @@
 This is line zero, paragraph zero.
 
 This line symbolises the beginning of the second paragraph.
-This line lies below in Markdown.
+This line lies below in this Github flavoured Markdown.
 This line is even more below.
 
 This is an attempt for new lines without a paragraph.  
