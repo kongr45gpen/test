@@ -45,14 +45,14 @@ In addition to the changes in the previous section, certain references are auto-
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-My email addy is tom@github.com.
+My email addy is tom@example.com.
 
 Math is hard, let's go shopping
 -------------------------------
 
 In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
 
-Triangles man! a^2 + b^2 = c^2
+Triangles man! a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
 
 We all like making lists
 ------------------------
