@@ -52,6 +52,8 @@ Math is hard, let's go shopping
 
 In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
 
+Use the right triangle! a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
+
 We all like making lists
 ------------------------
 
