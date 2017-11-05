@@ -85,7 +85,7 @@ What about some code **in** a list? That's insane, right?
 
         ['a', 'b'].map(&:uppercase)
 
-Some people seem to like definition lists
+A few people seem to like definition lists
 
 <dl>
   <dt>Lower cost</dt>
