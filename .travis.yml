@@ -1,0 +1,14 @@
+before_install:
+  - return 0
+  
+install:
+  - return 0
+  
+script:
+  - return 0
+
+notifications:
+  webhooks:
+    - http://helit.org:8093/++alezakos/showSuccessfulBuildMessages=always
+
+sudo: false

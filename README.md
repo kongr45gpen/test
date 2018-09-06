@@ -1,3 +1,18 @@
+This is line zero, paragraph zero.
+
+This line symbolises the beginning of the second paragraph.
+This line lies below in this Github flavoured Markdown.
+This line is even more below.
+
+This is an attempt for new lines without a paragraph.  
+This is the continuation of the previous attempt.  
+This line has only one space at the end. 
+This is the last line. It has no spaces at the end.
+
+Hopefully the spaces in the above paragraph are not broken.
+
+This is a UTF-8 string: 
+Τοστ διαφορά πέντε ξύδι ψάθα υπερήρωας γλυκό του κουταλιού
 
 GitHub Flavoured Markdown
 ================================
@@ -30,14 +45,14 @@ In addition to the changes in the previous section, certain references are auto-
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-My email addy is tom@github.com.
+My email addy is tom@example.com.
 
 Math is hard, let's go shopping
 -------------------------------
 
 In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
 
-Triangles man! a^2 + b^2 = c^2
+Use the right triangle! a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
 
 We all like making lists
 ------------------------
@@ -70,7 +85,7 @@ What about some code **in** a list? That's insane, right?
 
         ['a', 'b'].map(&:uppercase)
 
-Some people seem to like definition lists
+A few people seem to like definition lists
 
 <dl>
   <dt>Lower cost</dt>
