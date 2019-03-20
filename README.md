@@ -36,7 +36,7 @@ A bit of the GitHub spice
 
 | Syntax | Description |
 | --- | ----------- |
-| Header! | Title |
+| Header | Title |
 | Paragraph | Text |
 
 In addition to the changes in the previous section, certain references are auto-linked:
