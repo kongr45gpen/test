@@ -34,6 +34,12 @@ Oh, and one thing I cannot stand is the mangling of words with multiple undersco
 A bit of the GitHub spice
 -------------------------
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 In addition to the changes in the previous section, certain references are auto-linked:
 
 * SHA: be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
