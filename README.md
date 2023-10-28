@@ -31,6 +31,42 @@ Violets are blue
 
 Oh, and one thing I cannot stand is the mangling of words with multiple underscores in them like perform_complicated_task or do_this_and_do_that_and_another_thing.
 
+> **Note**
+> I like eating toast
+
+> **Warning**
+> I like eating toast
+
+> **Caution**
+> I like eating toast
+
+> **Danger**
+> I like eating toast
+
+> **Notice**
+> I like eating toast
+
+> **Information**
+> I like eating toast
+
+> **Food**
+> I like eating toast
+
+> **Attention**
+> I like eating toast
+
+> **Tip**
+> I like eating toast
+
+> **Hint**
+> I like eating toast
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> **Important**
+> Crucial information necessary for users to succeed.
+
 A bit of the GitHub spice
 -------------------------
 
